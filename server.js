@@ -202,7 +202,7 @@ async function checkGamesData(games){
       };
       // ToDo новая игра
     } else {
-      console.log(state, JSON.stringify(state));
+      //console.log(state, JSON.stringify(state));
     }
   }
 }
